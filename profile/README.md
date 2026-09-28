@@ -172,7 +172,7 @@ ex-dayは現在、サービスの設計・開発と技術検証を進めてい�
 - **[platform](https://github.com/ex-day/platform)** — サービス本体。要求・設計・実装など、開発の中心です。
 - **[poc](https://github.com/ex-day/poc)** — サービスを支える技術の検証。試した構成や検証内容をまとめます。
 - **[note](https://note.com/brave_echium7688/m/m0dd5ba9b91af)** — ex-dayのアイデアがサービスになるまでの形成過程や、AIと一緒に考え、作る中での試行錯誤を伝えます。
-- **Zenn**（準備中） — 技術検証の内容や、そこで得た知見を記事として伝えます。
+- **[Zenn](https://zenn.dev/tasazuma/articles/exday-vector-search-poc)** — 技術検証の内容や、そこで得た知見を記事として伝えます。
 
 ## 🤝 一緒に育ててくれる人を探しています
 
